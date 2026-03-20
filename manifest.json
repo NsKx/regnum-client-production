@@ -4,8 +4,8 @@
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:0d00f0593b2ef72d6b45e950f8469e2a2b33513675152c95c51fd1009a6d1260",
-      "size": 4343829,
+      "hash": "sha256:b1ec6bea4802d00003407a6dc23076d5d6dcd3c158393fb98d34f16e3aa4282d",
+      "size": 4347142,
       "url": "/patch/packs/game.pck",
       "priority": 0,
       "requires_restart": true
