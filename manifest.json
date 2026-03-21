@@ -4,1190 +4,1190 @@
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:bec8a247a4b8b7fe49512b255deaa02369eb62ee9ffe90f9ff23e3e3077d3f88",
-      "size": 4389630,
+      "hash": "sha256:94b2d0a08b95a0fb4124dfaab58f3473c73a0d7f809c77cdeffe60106b53e815",
+      "size": 4389760,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
     },
     "char_warrior": {
-      "hash": "sha256:bab9cdaaf99ffe2b50744e3d6388820eaa00d88e66f02f42ac5f1e00428bb2b8",
+      "hash": "sha256:a03dfd3f49f1ff33ac1915beadd4c509ad2be1c3b00c5afd70a273a202ac0067",
       "size": 16447316,
       "url": "/packs/char_warrior.pck",
       "priority": 1,
       "requires_restart": false
     },
     "char_ninja": {
-      "hash": "sha256:0a0ba86c92dc0a8508373e702f3da095571f3c8e64ef2a9247a029e345953956",
+      "hash": "sha256:11164e84721f6a0a8c26d5bdcf89622bdfd7145689f1cd56c34df45b36869f5e",
       "size": 13421652,
       "url": "/packs/char_ninja.pck",
       "priority": 1,
       "requires_restart": false
     },
     "char_sura": {
-      "hash": "sha256:f4fe1cc9a2ec6cdee3c6c9409a0bbdd447d3d6f391f4f185a755602d5ec4ba37",
+      "hash": "sha256:7bf8be0331924e5c1e3b22271a9b7183ca00c867aed4eaf1e4888abeaf8c1edf",
       "size": 15637320,
       "url": "/packs/char_sura.pck",
       "priority": 1,
       "requires_restart": false
     },
     "char_shaman": {
-      "hash": "sha256:e13a30e449a1f2f733fe4b5456cec62a08c0eae85a56049f388b13eddf539695",
+      "hash": "sha256:f8f2f8443f8b03208b51e3867473aea5c6f761200d4d5b7eefec804213300631",
       "size": 11849852,
       "url": "/packs/char_shaman.pck",
       "priority": 1,
       "requires_restart": false
     },
     "weapons_01": {
-      "hash": "sha256:eee9b23cebfba67891d7b81f1a5d16ce4b16bc1da8409b9491dc367caa87c015",
+      "hash": "sha256:aa74d5bbcca247d2230926c64788004f679fd2880ba231fabaca55612c268cdf",
       "size": 10108631,
       "url": "/packs/weapons_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_02": {
-      "hash": "sha256:e5ab28e4f17da067a00bc3de6f098b3bf9337729bb31b7a70f5db394786f5f40",
+      "hash": "sha256:3a58ad1a66302af0a4db40955c77b78e3f488ad3f628199bf5335f4a6c25c1d7",
       "size": 10280549,
       "url": "/packs/weapons_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_03": {
-      "hash": "sha256:62f707f4c0dc93fdb3de98f5f67993dad7aaa89a5202909754da4d903c745dfe",
+      "hash": "sha256:46865ba0e7bdeaf4319775037278d2f8c23acb0c478a7670d860c246c7c23010",
       "size": 10181104,
       "url": "/packs/weapons_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_04": {
-      "hash": "sha256:ab5a6fd8d47d9efe321307a909bc3f05e2974cb22a79acae51f408989a9775f9",
+      "hash": "sha256:3b0e71d9f8db168af5ff9142b7a9e0d0cc0040f81e734960d02a9ff92270a3ea",
       "size": 10313226,
       "url": "/packs/weapons_04.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_05": {
-      "hash": "sha256:616712c8569bfc2cf2fdae60c0eea462b9ee0d8bb7940f7ce9d82b0235eb4c07",
+      "hash": "sha256:0f108b154d2b8289112768e6e7e4334647cc1c029b85e9fa9f130eb8fc8b8f0a",
       "size": 10363377,
       "url": "/packs/weapons_05.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_06": {
-      "hash": "sha256:ab2a1c2364afc18e356e9264d8d9e345bdfe24abc9c589e759af9f5d6c09b04d",
+      "hash": "sha256:022a147d11c7fedb2a58b4c800adee48cd9fdcdeeaaa27766123f432dc676234",
       "size": 10472734,
       "url": "/packs/weapons_06.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_07": {
-      "hash": "sha256:7c0063040fb00aa308fe839aeb760a156109153c316ae518ffeec4d94393f035",
+      "hash": "sha256:2877f6ebbe8ae2e025bba5186d1eaa77bfd06688a0cf1d572040b2b4ca2a9c27",
       "size": 10356679,
       "url": "/packs/weapons_07.pck",
       "priority": 2,
       "requires_restart": false
     },
     "weapons_08": {
-      "hash": "sha256:c0f8f8956d40fb2ae01a637f2772112691c68a866f3a1706518689e77acd7b74",
+      "hash": "sha256:4d06f488d52f80bd098e6b4b256ab636935177eea8b05ef663c6b9926f246a30",
       "size": 10054900,
       "url": "/packs/weapons_08.pck",
       "priority": 2,
       "requires_restart": false
     },
     "shared_01": {
-      "hash": "sha256:9f22074e6f7b142b26dc1ac1875b341eb9b6164cdb9d763558369bffd8c6a654",
+      "hash": "sha256:1a58a16e800c8b7962216d17d6f1f1b56aa410f08f70ccbe4a2dec3d5e6a7991",
       "size": 27736263,
       "url": "/packs/shared_01.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_02": {
-      "hash": "sha256:5759b62a573cc1f8bd0a63208bb93ca79180cafd0fb0e6ec82707df6ad17383a",
+      "hash": "sha256:3f6e63eb784a2ac88a5f8cff0acd9a8f7aa401452f02aaf934dee69225e378f2",
       "size": 27637383,
       "url": "/packs/shared_02.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_03": {
-      "hash": "sha256:6540000564cb73abf6d0aef2b6372d8555edb62e99b567f02d1449e1d1f9e0a7",
+      "hash": "sha256:fd7ec77a4f089f4b1624c0bb35c7ea8b33fabb846a53aadd7c29b443a5a74397",
       "size": 23532902,
       "url": "/packs/shared_03.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_04": {
-      "hash": "sha256:853685ec18f621266b7904706b4151924a382987ea4ee7b3caf05e52b742cde8",
+      "hash": "sha256:97e35046b48ac3387b29241a8f5c7d018a19da30a55a502f247419518a6ec161",
       "size": 28537179,
       "url": "/packs/shared_04.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_05": {
-      "hash": "sha256:82f57a1931f86f55e04d02c99aa52952198b6c1dbc084962b6ed0d381426d8ab",
+      "hash": "sha256:a442563945a0c8300546c560f36f00a0a6b3f10af40db0c1040c27c1ed6c91b9",
       "size": 16248571,
       "url": "/packs/shared_05.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_06": {
-      "hash": "sha256:e204bf4c5293c12ce062df52052d16b155457138fdf727d28b719b1103299253",
+      "hash": "sha256:757de1972b81425f4b01ac8fddf314d2c5d17aa04923f0264bb55e6fb4ac7e4c",
       "size": 48289084,
       "url": "/packs/shared_06.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_07": {
-      "hash": "sha256:519c5ec0b11cc8f34f09b152f3ec3e2548120a26bd84df96a027152cd24b0c6d",
+      "hash": "sha256:71e3960d15d7137e7bc56baca7dec1b9b961fb37d657b5ee3957169da20cc6cf",
       "size": 69339044,
       "url": "/packs/shared_07.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_08": {
-      "hash": "sha256:e994b9032a7db6b6ccebd034165f5b0af3a8a7a4f545d9b9f4d85f47d98af7a0",
+      "hash": "sha256:efc21f0377279d4d7150f9df6d89043b7f20ed2515d0e9c363bc46f057847e09",
       "size": 18843329,
       "url": "/packs/shared_08.pck",
       "priority": 1,
       "requires_restart": false
     },
     "mobs_01": {
-      "hash": "sha256:282f78ed3c4eebcb4b1da27107ce4e8a7b334d9c67167456ecac695143b28cb0",
+      "hash": "sha256:d48889884083baf4d309dc2d25616ff369915fe0e6522442ba30802d7a5d0206",
       "size": 9430803,
       "url": "/packs/mobs_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_02": {
-      "hash": "sha256:f9f2367895d94cb78c5e666e5978291dcd393ac8cb6bbf0c366eeb33921091fb",
+      "hash": "sha256:9192de2cee727c0c212e4f31345bab1a73989521340180e503d607e7af6a1b3d",
       "size": 9696861,
       "url": "/packs/mobs_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_03": {
-      "hash": "sha256:1f49d4b3d0ed737cd7a8247054311431adf127c026d601f13c81d2525e9bfa4b",
+      "hash": "sha256:61663bc7c1136dc7c7344c02708ae41a7c5ba2daa03d2b787955324dc1acd3fc",
       "size": 10225577,
       "url": "/packs/mobs_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_04": {
-      "hash": "sha256:6405ed9d64cc610e1bdf31829a8982faff0bd4ff68e109efc12e7e46e4359b64",
+      "hash": "sha256:e1915191771df07ee38ac144c6653c4c40049d44fae5bf8be1fafe98bd0a9b47",
       "size": 8888401,
       "url": "/packs/mobs_04.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_05": {
-      "hash": "sha256:b937113166e6ba2d1e5e0ed4e7b0e78a484ac830c8e88357319cc477e9ff1dbc",
+      "hash": "sha256:fbe32160574eb76f4950451b44c676c4ab533f420725170e0abafc84c3b074dc",
       "size": 7478250,
       "url": "/packs/mobs_05.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_06": {
-      "hash": "sha256:85a995a09598e03de50eba9294b8f67c3ddfdd68d01f181b65d66d45f5e15390",
+      "hash": "sha256:b4938748bc1950751a9067af91cb0d03e2fd9eeb9645078b745a38acc51d4698",
       "size": 10050275,
       "url": "/packs/mobs_06.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_07": {
-      "hash": "sha256:13e6a0c17825d2af553b9355e6f258ea105a995ff44e2088c0fc981f21d31f27",
+      "hash": "sha256:9a943d9f606bab1d69425f95f8f3b4d0eb7eda163718402079d6adf09728f20b",
       "size": 9552789,
       "url": "/packs/mobs_07.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_08": {
-      "hash": "sha256:cd72e7f33af53327ec8c60121ce96b55704a7f36d36f4af0e1654c496bb771b2",
+      "hash": "sha256:3206ddad50b17993e61a7bf2193bf15420a379f0bbd15d66866616d5b1e97a54",
       "size": 9904604,
       "url": "/packs/mobs_08.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_09": {
-      "hash": "sha256:11eb0702dbab5389df77ac8eebef66d084980d693f211d7fa006f0820cec54f0",
+      "hash": "sha256:dc8040180335348a9a024808bae27cd9569c50e1d438e6fa557356b6a851cd2b",
       "size": 10103573,
       "url": "/packs/mobs_09.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_10": {
-      "hash": "sha256:60d270a6a98c852b54d147564004c843fe6edc7a5e9b92eaaaa6013459ccd26c",
+      "hash": "sha256:8e060f66951ea9d6a90849d8a6ca0dea98d60d571f5a56b2188f40df1d5b2fa5",
       "size": 10359800,
       "url": "/packs/mobs_10.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_11": {
-      "hash": "sha256:29401336e49612b59dc15305602533e53cbfb9cda54fd81b44a6340c69453b58",
+      "hash": "sha256:fa4f1a52f4c378152de229bedf0f7299d759890079e1e9e99c9edd67fc1ccde9",
       "size": 7576448,
       "url": "/packs/mobs_11.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_12": {
-      "hash": "sha256:9b6423c9839f3a258b096b396124e2ea21ce96a9372aaea0ee4dd8b83b8ad781",
+      "hash": "sha256:7d78279be1d1f1b18931550409cfd3b37be229f07f7fc6598ac2f6f8972ec2ba",
       "size": 8659479,
       "url": "/packs/mobs_12.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_13": {
-      "hash": "sha256:2f7ecc8a00e3687822d3568faed4aa8eebd92844ccb8719ffa5e8bc7b9575bc7",
+      "hash": "sha256:7a468322f93122a678aaaa272e0a964cf98518d7769f6654d6af8188d11e88d0",
       "size": 9418264,
       "url": "/packs/mobs_13.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_14": {
-      "hash": "sha256:4525768a9b01a335552c9964e450598c2aeb8fd6b2cbd8b64d4f1743276f595e",
+      "hash": "sha256:52ccf4418846f306fa2deab805208ae761b4c9538ec7cf6440d58bd1984b8530",
       "size": 10020131,
       "url": "/packs/mobs_14.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_15": {
-      "hash": "sha256:ec56d3e66f768605b1adf55e432f114126f34fd946a0a3d9182e8a198c6d8055",
+      "hash": "sha256:f5d3d12bac75e7e43efc6ec9c3b61a7527d5a3342a1021d9e0691aded4248237",
       "size": 9820638,
       "url": "/packs/mobs_15.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_16": {
-      "hash": "sha256:673f38de6cfa336138fad3de4376a2fd84a7e50c65414779bb051b850feb66f0",
+      "hash": "sha256:86315395e8db01337cd4774557973cf3094e9faa30f982e2536ea1e65629da30",
       "size": 10195590,
       "url": "/packs/mobs_16.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_17": {
-      "hash": "sha256:afaa9eb7c98b0e15a9c43a9b2682405833480452f68b28b73ee012ea19baca3b",
+      "hash": "sha256:2dfbce3d1c65b17b3eb6168a73dff6c09c2c293df6d332e9da02e045ea3d6f89",
       "size": 10257958,
       "url": "/packs/mobs_17.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_18": {
-      "hash": "sha256:326f8d9e2085180c75434e9fce8669890d87910609439d1d0c4cfa0da5d87f11",
+      "hash": "sha256:bba2c9b6ec329d076abf54eb9ef8bbf9c3075391c012cf3c455419cfaeb2e74b",
       "size": 10340870,
       "url": "/packs/mobs_18.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_19": {
-      "hash": "sha256:beefeea8fc7e236b9a6623489491519849e0ba6cfa748b34f05826cb900eae3c",
+      "hash": "sha256:72edf1f094309095b3c590f8d5005ecd8f0f8e2d6e29a02e5465798036924253",
       "size": 10291697,
       "url": "/packs/mobs_19.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_20": {
-      "hash": "sha256:73bf9ed88fdf18055fb807dec836b7f5217e712032024bfe0c09b5597a2216fd",
+      "hash": "sha256:1ec5b2bde2da9c2a0dbbbed759fd556d7e276547a21bf7d270b43f5017a92ec0",
       "size": 9719452,
       "url": "/packs/mobs_20.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_21": {
-      "hash": "sha256:2bc767b441a26452756fcc86d6d22090e53025999b2f9d80c38ac7e5d0f7a411",
+      "hash": "sha256:7fbaa8f5b24e25b8194f2ac86ace2ce27fd0a8450c14b422560f669fe1a93b03",
       "size": 10297357,
       "url": "/packs/mobs_21.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_22": {
-      "hash": "sha256:2a623c71718185ede021d8f818d49f0d025b18544d3c7fa76f4f20d405201f2c",
+      "hash": "sha256:74d5bc5d12434f6c186ba45438b325fe57050255bd1fb13282a4b3fdd7f3afe6",
       "size": 10125388,
       "url": "/packs/mobs_22.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_23": {
-      "hash": "sha256:f544d3f1a5b4ed5dc6b3b05bf3bf8af9eb2c5d1ac90c1269fda33fba68b53b45",
+      "hash": "sha256:60889f410a557ec0bfbaafd67ae524e7e5fbd02644910685157ba1235590e771",
       "size": 9864772,
       "url": "/packs/mobs_23.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_24": {
-      "hash": "sha256:d800b7b825ecedba622ef2c0d914fa203d6b7009bebfe70d8096dd29ba3d8c47",
+      "hash": "sha256:661da797a73860db25c09cd6fdf8a74210a34096468483699aa36145f975e42d",
       "size": 10225039,
       "url": "/packs/mobs_24.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_25": {
-      "hash": "sha256:d28402ae4093111ff17e4700e5d3c1e3789a4d04a309f6007b7e90e008a55cb2",
+      "hash": "sha256:55dc164ad3c38c9afbd5c215a375491a59830c884811066d08fcdbc51a856b08",
       "size": 9157240,
       "url": "/packs/mobs_25.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_26": {
-      "hash": "sha256:50eec3700392c291326e8b63929f54b10d2737d66818ffd4a362f97f450b71e7",
+      "hash": "sha256:5b987b3189788e3fe591e24cd6b6b67ce611a8291a13934f4a4515ffa62153b9",
       "size": 10453307,
       "url": "/packs/mobs_26.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_27": {
-      "hash": "sha256:dbe93e88311080c5c62461922a845e12377d88d58c7b47d0513fa4d4ec43d16e",
+      "hash": "sha256:15325d76bc37aea68981b9ec2887e380b539b486c8095dbcd0c1d7a6f2d6cf4f",
       "size": 9049882,
       "url": "/packs/mobs_27.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_28": {
-      "hash": "sha256:d20c62231cfeef29c29d572332add31dea6ca8ed382c1c351556b01909709551",
+      "hash": "sha256:d7f0c8adb80b7585012eae8f49a5e878cef36990fc1c6b508b4a79668094fb3b",
       "size": 10283109,
       "url": "/packs/mobs_28.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_29": {
-      "hash": "sha256:c269b166975ac9e0dcc3fb537bb85c2230a13b48526e24bb7dce89a85334e18f",
+      "hash": "sha256:c8c86e7cff8815cfb52925074b5f2bd319845fa90dbd5bdbc5cbb96a0c9b7c64",
       "size": 9957440,
       "url": "/packs/mobs_29.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_30": {
-      "hash": "sha256:bedae8bd36163db4ab9bc5ac82c9c4d1fb8f1f1e033603524d285d202a00ade0",
+      "hash": "sha256:ddc1e20582531b7a962f9ffb34887fafb10bbda3bdbcb9f54387f492995cd5c8",
       "size": 10053479,
       "url": "/packs/mobs_30.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_31": {
-      "hash": "sha256:49b53ddf7670869ce6a999e834e79d3b59e4bccd1b3e5397714e45fc38cbac0f",
+      "hash": "sha256:d0e186da18a57a8e3347d1bbfd9d75c45bdf05f051ff6dd5660a70b336d2aa7d",
       "size": 8878837,
       "url": "/packs/mobs_31.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_32": {
-      "hash": "sha256:39af5ab825a3a75a8a0fec1166955963dcac04f4d43891f676fa81ec237b0496",
+      "hash": "sha256:6e0b2f3a6c5ff408b8704aba5d700128c697442d0e3f97335e1e1b580f14a1cf",
       "size": 9164036,
       "url": "/packs/mobs_32.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_33": {
-      "hash": "sha256:edb3bca4993920789269c32410eb3321775ec6a9caded1aade812349fe7c9747",
+      "hash": "sha256:52119b48f1f75cec25293fb57413fd2e250a437057887459a504b7f4245512b3",
       "size": 10022664,
       "url": "/packs/mobs_33.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_34": {
-      "hash": "sha256:dcde81dd562899cbe1503501f8b50b29950a471635c3e287407bced9505eff46",
+      "hash": "sha256:456894a8faa3020644de4f419caa4ef694321bf25229617833e6f2be37e673ac",
       "size": 10424794,
       "url": "/packs/mobs_34.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_35": {
-      "hash": "sha256:33cb4d2b87f81c6e2a55e5b4b594e7e5955cb20c88f8a15fab061b35f47dd361",
+      "hash": "sha256:b70ba015596a3fcee7d73440ac7b407aefa37c4e9ef8ad498cbf6aef4e2b46d0",
       "size": 10159329,
       "url": "/packs/mobs_35.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_36": {
-      "hash": "sha256:462f8f0aba326df2ae89316a12354894699916359126512d75dc1cba2c9d2bc2",
+      "hash": "sha256:4b9d526d0307e8144416c6df487dabace680797547efe073061b4ab1fd2329f0",
       "size": 9006427,
       "url": "/packs/mobs_36.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_37": {
-      "hash": "sha256:1c90ac9800672faa56ab46006981273c11ac13a2f66fb7b2f4706105d24219a1",
+      "hash": "sha256:a9f92e95b32244e11ac15d74b4603d1a8a9084bdae30e21bb3b955042f22c951",
       "size": 10185109,
       "url": "/packs/mobs_37.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_38": {
-      "hash": "sha256:6808b77e7d007d0c2173d0540de7384399e1ea13b02e537d0b1d3a478350de34",
+      "hash": "sha256:835f589d0408cbf7b5c931fdc6008fafc10eda52c04fbd5cfc996c693313446e",
       "size": 10395350,
       "url": "/packs/mobs_38.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_39": {
-      "hash": "sha256:ca20008b3ec05fcf8a7f1ac3e087dd4adc16ac783cca4401e2b0d28fed59ef10",
+      "hash": "sha256:b91b1abbbea9f42eef00ac81c6865f57635f76fccfe691ec3b0042b05bd1351c",
       "size": 10432442,
       "url": "/packs/mobs_39.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_40": {
-      "hash": "sha256:3f8147c07c9f25187317432a16e549112d52ef2a59bbe39358f0f8345f2bed0f",
+      "hash": "sha256:d99a459d3c6898c0dd3652360c41ea51ceaeb8d4c8d10985a5c79cb355cb6988",
       "size": 9459472,
       "url": "/packs/mobs_40.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_41": {
-      "hash": "sha256:7170223ae8546d598f53cd1bbc0f8f25ed30485a73619fdf2580b0b93a104537",
+      "hash": "sha256:61c929e79acbd74cb821ecf4dde3da9d791a1b893a9205ee35d914827066c091",
       "size": 9838022,
       "url": "/packs/mobs_41.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_42": {
-      "hash": "sha256:809ba30459849c8991e6559f8db8951763bd63d0f82245ef04144d8ed0036a13",
+      "hash": "sha256:be69a4c07bfaf034588b5cb87b5a5a0350f0a75869d07fe88bddf7216c4ba139",
       "size": 9105531,
       "url": "/packs/mobs_42.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_43": {
-      "hash": "sha256:e9d0ba407affdfe206a449843b34a12d9792f18a26ab9d94faa674b29b44550e",
+      "hash": "sha256:ed47ce1dbadf7300b3ae2f94a4879c9b47d3e676d74bab2776b05030fdfa2c3f",
       "size": 10186977,
       "url": "/packs/mobs_43.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_44": {
-      "hash": "sha256:d9d8271aa421883468c1c53f859af68f6e5851dde2633a5cef6d32c4e724a019",
+      "hash": "sha256:6a69dbdd0220c6d22b6f9933323662805bdc7308ed2773fc01e3713087eab8cd",
       "size": 10418429,
       "url": "/packs/mobs_44.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_45": {
-      "hash": "sha256:f3488d0e132d45574a654693fde31b2412db7531a64255586e5b67f7c02bf01e",
+      "hash": "sha256:40aab0c7db55a9ec62063a6530a9e92a98221199303e312cf7a16a5fe3bb448c",
       "size": 6597860,
       "url": "/packs/mobs_45.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_46": {
-      "hash": "sha256:717c31b013917c5b387e2b23831d1e7ceaaa50e450b04e7e15fcced67e1f61d0",
+      "hash": "sha256:71232550a8f12542c1a6261d6ef0e03ec981ccca64d77aa442de582bded1e99e",
       "size": 8723910,
       "url": "/packs/mobs_46.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_47": {
-      "hash": "sha256:b8630d19b40a53f2d38e9ad963e613675fec2c73c109712fc633947de5421823",
+      "hash": "sha256:81efba2e3a039d6a385e7f44ee2d04a568f600d5c343e4e80766790c1f63688a",
       "size": 10112077,
       "url": "/packs/mobs_47.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_48": {
-      "hash": "sha256:f31866bcf8bea70bb15803efc65ebe293122e0027dd0da9b7f35b0fcefc92f1c",
+      "hash": "sha256:a68abff114cec4252470c974d312ac24867de19773cb068e7c32d88638fcc2d2",
       "size": 10069520,
       "url": "/packs/mobs_48.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_49": {
-      "hash": "sha256:4f4c2eb6cd3a0bbaa8258d1c0746ded2c8c3e7af2c0e83aa96161127688b58b7",
+      "hash": "sha256:a242376430193f76c00c00bba356293b38f8a46b14800dc6455e599c9a8417ca",
       "size": 10257024,
       "url": "/packs/mobs_49.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_50": {
-      "hash": "sha256:9251f3e07bebc4255a68624f2f24de9a8f7bb3dedc38140177f740a5b0f1e1c7",
+      "hash": "sha256:c856fe8bc9797070cfd3d8eb8e03c504bd48f5cf388822084d6cf7a2174f56aa",
       "size": 10460524,
       "url": "/packs/mobs_50.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_51": {
-      "hash": "sha256:95f739cd4c444de24484a57cd9875eeb765370a1111fae616c00b6590c90923c",
+      "hash": "sha256:97cbf08a320a9612dcc786db09b55120126cc3a4eec8fd18b546a4c4999cdc5d",
       "size": 10298067,
       "url": "/packs/mobs_51.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_52": {
-      "hash": "sha256:77a2db30f837d52f367a51495a072a7dcdd19e7e281e0de05877be4d7fb37ce5",
+      "hash": "sha256:fe8e2ff3c253fb92e92c6eb1289492c0fafcf32e99c0a6f77ec5316726f59bc8",
       "size": 10044401,
       "url": "/packs/mobs_52.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_53": {
-      "hash": "sha256:f57fd7cf588b510f624deabf3d2528c3d374b00bb04ad68641e0635299212a5a",
+      "hash": "sha256:89cf1808a880a4f5a1b1bce28b2ff2a09ea6b461c3695b2fcf65eb5f504b1d5a",
       "size": 10446585,
       "url": "/packs/mobs_53.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_54": {
-      "hash": "sha256:9787fc2c6b71a5e4aedb20794733941bbea6ebf8e950ab314abbd0e1829abe1f",
+      "hash": "sha256:bb6164572414da7238bf133ed8b3fb0a82d4d1ddcf7f00b3928ddde92e36ea5b",
       "size": 10439280,
       "url": "/packs/mobs_54.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_55": {
-      "hash": "sha256:d89c695193b476293b45b8cde5ab65587dc27b7a5148731c95f27192c3da2c5b",
+      "hash": "sha256:6cd9e03b9242d4a624da4fcf7ab60ebd0d9aa7fa538e8c65281f8b82af27879b",
       "size": 9387528,
       "url": "/packs/mobs_55.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_56": {
-      "hash": "sha256:492e67353942eeffd66f2774786ae02269cae12b6f9f30321e7fd3bb6197ec75",
+      "hash": "sha256:c966a712fa77df2e0f954b796682a2c8de5e37e803437c6a70d6c6caf489c00b",
       "size": 8633058,
       "url": "/packs/mobs_56.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_57": {
-      "hash": "sha256:f15c31660a9860dbd18385b3ffb209ae7ec94e97b4a4475a7c658ed025a52582",
+      "hash": "sha256:f74263e1fa73e990d2670c190f31e5df883757c6543d9021c2795fdbec81529f",
       "size": 10079215,
       "url": "/packs/mobs_57.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_58": {
-      "hash": "sha256:f12781534ba81a7300ccee2993c1f2e4b1112421306ef201a53441a0094fdbb5",
+      "hash": "sha256:f8601447d32695f5bd19672c52f665376cc5d164bd9c01a01dd4c15654780c3e",
       "size": 9888372,
       "url": "/packs/mobs_58.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_59": {
-      "hash": "sha256:b020dd92e763ed983eba94cff04d7601677c398d3ecb690b423665372d525af4",
+      "hash": "sha256:6aedebb583d781ef1c9205478f3f80c4861ce770acd9d93ecd1e11672fc14d62",
       "size": 10192640,
       "url": "/packs/mobs_59.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_60": {
-      "hash": "sha256:644d52ebfe70687a2e8cbbac7a71a382bdba3d5676db66b498f50614092fb0ab",
+      "hash": "sha256:877fba649c92054b1cd6e95eb8005fc7ecb37ccb8aa1aaee354e733764aa52b0",
       "size": 9809104,
       "url": "/packs/mobs_60.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_61": {
-      "hash": "sha256:4046fbd16fa98e284ee2f5fdc9e694981cb6442eaf6aec994d4b5ffe16d28ff8",
+      "hash": "sha256:8dc497f0a2c747281e5c2f8e7c0723d81cfbd5258d30375266ea3ed115475d00",
       "size": 10420110,
       "url": "/packs/mobs_61.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_62": {
-      "hash": "sha256:b865d87b1af5398684e91bf6ead496e0c9ce2d6995d16042e878fb1dfee767f6",
+      "hash": "sha256:05773a309bd82003604959df552f11cc30338e8a824b897d21a1bca0cfe25959",
       "size": 9407112,
       "url": "/packs/mobs_62.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_63": {
-      "hash": "sha256:1d0f5bf9fb6c910ed0e6e310f818831cba184ad026e1e605591d2b7421772bcb",
+      "hash": "sha256:636a62e9f8fc78fe2ce96d259975dd8bd4cc317f999621e45cf8543d15e2bf1d",
       "size": 8766138,
       "url": "/packs/mobs_63.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_64": {
-      "hash": "sha256:d1e1ee239f44e7fcee3d644c2e862c833e0bc25f9c414a6f97f7b1c28ce1a05c",
+      "hash": "sha256:fa62f6530cbe828692910306288b2d2ca6257b503a018d113892d6a698fd5564",
       "size": 8881368,
       "url": "/packs/mobs_64.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_65": {
-      "hash": "sha256:aef4e4908319f7b1090bddc977c54d04eca78c5799089ed04dfdc39a095f8842",
+      "hash": "sha256:3110e855b5ea2170707fa752d6fc41983c316d834b660b6493fdaef1a2894ec3",
       "size": 10372719,
       "url": "/packs/mobs_65.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_66": {
-      "hash": "sha256:bd4ee4b75d6c8ebdecbbc8a6aedb407ec7ea2ec5787cdcfa8c12359eeea4bc9f",
+      "hash": "sha256:47bfa3c01a62077b30be3a18c8de25a470994f2c2b9fc23438263f956ff9631f",
       "size": 8759416,
       "url": "/packs/mobs_66.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_67": {
-      "hash": "sha256:0464e41a3bb5e85bc602109442a0c88ccbea7114783a3f9ddff8193dd670798a",
+      "hash": "sha256:c8d56d7671045bd697ca53d49cbc6348aa33be115601abb0e784637c8a570ea2",
       "size": 10097633,
       "url": "/packs/mobs_67.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_68": {
-      "hash": "sha256:94244021d4b42ea20ddd25cb0a738bc32601c5741f909360ca808db65e8ac805",
+      "hash": "sha256:cd8d809e34ea75cacc2139701558efdae1f380df9cd910a7bfd7f9ecc575ff17",
       "size": 9056565,
       "url": "/packs/mobs_68.pck",
       "priority": 2,
       "requires_restart": false
     },
     "mobs_69": {
-      "hash": "sha256:f348e937c733551db5bc7dda7a9a4fc6945b98ae471b7ab3d7ff375d4382dc60",
+      "hash": "sha256:3748e16a8b7c3e5f6b5a25b89304e6175acfd34e3b3fca5074e328b9f79e479f",
       "size": 5944110,
       "url": "/packs/mobs_69.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_a1": {
-      "hash": "sha256:047ca7af47ebe0c36df55d299001350c98d478b6c06ef02300df9d32e52cad55",
+      "hash": "sha256:54208c822f7f89b7e1e09400dbb23ec9e473cd5b79b7b6810b5edc21a6ac9834",
       "size": 21098933,
       "url": "/packs/map_metin2_map_a1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_a2_1": {
-      "hash": "sha256:4e3e9b71ada6126aa89bb3e95a03cb1984d10be7d27e7592b3c7e35d273b67ef",
+      "hash": "sha256:17dfa31e3f5135276a65d0bf71aa7c92c339c71e59ea9a507ee5f33c01db9c79",
       "size": 17867774,
       "url": "/packs/map_metin2_map_a2_1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_a3": {
-      "hash": "sha256:22f8951414318330c283f17c260b23025bbb6f3d375ab6d177fe1701f038fc5c",
+      "hash": "sha256:d48e841ecabc815258b4c024e2013024ecb794b5ca1212f9f23dcc6d3cb40537",
       "size": 18358234,
       "url": "/packs/map_metin2_map_a3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_b1": {
-      "hash": "sha256:3177bb9997111176c50bc3bce81285efdc8ba7fb79fe82cb51f0ee3a0d3008a3",
+      "hash": "sha256:303701b0082c278282481b5ac9f15923d1bdab5b348b4199159f6697214b706d",
       "size": 21468890,
       "url": "/packs/map_metin2_map_b1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_b3": {
-      "hash": "sha256:d7fc9b5ee6567ef2135db9676703a9d20b4b57ca33f510a5600058f7b7295692",
+      "hash": "sha256:1045257158fdaa7255554c23cf1a3c738f2659456e4cfa76e25e5b82cef3094b",
       "size": 18597445,
       "url": "/packs/map_metin2_map_b3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_battlefied": {
-      "hash": "sha256:235d2841e3181b7daf3b99b46a6967c80a51d4917ac577ddbb4378f237c83c0b",
+      "hash": "sha256:a3bd6322d95177fc684e0ff661b7db992db06a48f855731e57f7a609a5523684",
       "size": 1191889,
       "url": "/packs/map_metin2_map_battlefied.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_bayblacksand": {
-      "hash": "sha256:ec19d6ee2c7c35a0ccdbc27d5eca8e7e24efdc37b057c4339f6c86a1586e2473",
+      "hash": "sha256:d5bf977630b43d9454ac16517b889693ae91199950931d50b5a7a660e318cfc7",
       "size": 13535991,
       "url": "/packs/map_metin2_map_bayblacksand.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_c1": {
-      "hash": "sha256:c62c2780777bc95bba944309fa0b73067b1e83e279ee04e72bdbc0a5820d5742",
+      "hash": "sha256:4e24874dfbe146d04ed7e20ae8a770f6d8bc4bf198b13459b5f1b7d972e663eb",
       "size": 29037120,
       "url": "/packs/map_metin2_map_c1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_c3": {
-      "hash": "sha256:7de740b43e71bdb0926603e263b73ac36adfbae28a281a37b868138e77e110ea",
+      "hash": "sha256:04c8b4044f2aa4e8e8932182f26fbf51f71ff5b482b0b671b3fd0d075aa355c5",
       "size": 11616877,
       "url": "/packs/map_metin2_map_c3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_capedragonhead": {
-      "hash": "sha256:f9ada48d9644c67ed424e1c5e11258e046f9e7023c4fa7e8be0d8706bd31ec67",
+      "hash": "sha256:90a7a7cc12bd120b8350039fb588416c1e95f0f8f7ad29457c65f59efb48b5f2",
       "size": 23900697,
       "url": "/packs/map_metin2_map_capedragonhead.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_dawnmist_dungeon_01": {
-      "hash": "sha256:812943e0d7a62fc02d818fa2e73aab5f1caf5cf0be0f0f77027d0df511cd3452",
+      "hash": "sha256:05b3bb90466f95182093accdf44a585e983ae99ca38aa54999d7ab9cdac1fedb",
       "size": 7571239,
       "url": "/packs/map_metin2_map_dawnmist_dungeon_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_dawnmistwood": {
-      "hash": "sha256:4f2e73883f2f22c57dad8d061ee07502cc2689d28caf1014cd835bf91c655965",
+      "hash": "sha256:45f64886362f5d5165c5e22762154b21939891570c8a1ab12e4ad2867a8f9892",
       "size": 19416897,
       "url": "/packs/map_metin2_map_dawnmistwood.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_devilscatacomb": {
-      "hash": "sha256:f70d0ad5cc27cd2d6184a8ec39d9dfbf9994a31410cf94fab9b9dc73e3508789",
+      "hash": "sha256:4a4407f9759dffc205c63a34801d17b9650bb2d2ff0b448c5c49553d2b3f14e0",
       "size": 29493568,
       "url": "/packs/map_metin2_map_devilscatacomb.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_deviltower1": {
-      "hash": "sha256:ce229f60074d7168f382434a970227ea3f2844575b8b814635a5d0b30ffa6f72",
+      "hash": "sha256:cc22d59287f78f6aac4273b16dc416f39d10592f20826931758445da76ce413c",
       "size": 10470093,
       "url": "/packs/map_metin2_map_deviltower1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_duel": {
-      "hash": "sha256:a2db85d606a98bbfc65833c18131f26221d4bc102f48384a9272dc8a74bcb1c4",
+      "hash": "sha256:b8e56b8b58581c4bd30e415381124772f0da9a854b080fea29b68c6d2e518d12",
       "size": 626037,
       "url": "/packs/map_metin2_map_duel.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_e1": {
-      "hash": "sha256:9dcb1c8a93004ce6a7f28889c4c0b101b21ba6a03c4aab92040286e991a4e7a8",
+      "hash": "sha256:46fd382b1401880df1af5321465bb9d97d8ef82135a4b4114df61433d194ffab",
       "size": 5881554,
       "url": "/packs/map_metin2_map_e1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_empirewar01": {
-      "hash": "sha256:1bb22f4ce457223a0dd0567e83d817df3c16ed22c1a3897f494fed5f381cee66",
+      "hash": "sha256:ba8d9deec50baefd4109e154bc955736de76001d4f4a23d828bf93bba538f276",
       "size": 9052195,
       "url": "/packs/map_metin2_map_empirewar01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_empirewar02": {
-      "hash": "sha256:7337ac743f7abc59f724279168121bcde1d3b25199c41a97eca52ed111385687",
+      "hash": "sha256:24c88801b22e51b5005258f516a714a1dd03a1eb71c62f93b12f13f0b8e5c6e8",
       "size": 16463391,
       "url": "/packs/map_metin2_map_empirewar02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_empirewar03": {
-      "hash": "sha256:8125ec2eae7d23b180fbca54c59c028570b5700b9f7daaa24553a3a396982744",
+      "hash": "sha256:3d95e244437f87eab0c62869ef1e9fc0ced6eaa4ab4c9742e8e39b5ce30d965e",
       "size": 19004092,
       "url": "/packs/map_metin2_map_empirewar03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_empirewar_a01": {
-      "hash": "sha256:227b0359a6aaab15cb7f9703eb801a35c740519a511eff4bed9a090718e26f2e",
+      "hash": "sha256:33e412a31fa71f89de9d29e2c2f8a4dfaaf478ab8e9a6c906cf8ee05f71289a5",
       "size": 10967548,
       "url": "/packs/map_metin2_map_empirewar_a01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_ew02": {
-      "hash": "sha256:f1ba619362aa93a6d932a4a09329f5c4993a07fe75a4ccd6b58069671da0e711",
+      "hash": "sha256:8304e19a33ac03b2a4528d1a68486a74ea13254e34af2552802f1829ebd3e3bc",
       "size": 8726582,
       "url": "/packs/map_metin2_map_ew02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_01": {
-      "hash": "sha256:7c5a736af741342aed48f35a3521c266861152b81f779806a17dc2327dfadf1b",
+      "hash": "sha256:fc41bcf64fe6113653b877f8893c42068cf18f72d653d8a0e2f5e13ca67b5357",
       "size": 4330828,
       "url": "/packs/map_metin2_map_guild_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_02": {
-      "hash": "sha256:03fecf58fb9146c1b343ea0ccac91f56eb871a52e64147c60c33e8ed2b65fa81",
+      "hash": "sha256:4b3d4570b5e0eab09ab66e0759953b5f591612aff15eaf5f2236b5444829c2ce",
       "size": 3188988,
       "url": "/packs/map_metin2_map_guild_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_03": {
-      "hash": "sha256:400acac5ab545808b5ac8e5a867514650d6f7e836568cca95a4dea50b72385e1",
+      "hash": "sha256:a696a28cbd2002819c69d9c8fd75abb7e655eeaf944d5d848eaa09ba23da4c31",
       "size": 2431274,
       "url": "/packs/map_metin2_map_guild_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_inside01": {
-      "hash": "sha256:164cb704ea075a3d69a5258c75cd78ef860fe25cbb44c911af63cf57fad47cf4",
+      "hash": "sha256:5c53834a8ee0d25fb45de333e96886a3851818217839dc9fa3625f70eab49dcf",
       "size": 259280,
       "url": "/packs/map_metin2_map_guild_inside01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_milgyo": {
-      "hash": "sha256:79ce66663edc502a823f1a9e0f191fdd231d873f11430877f686e861d5e42edf",
+      "hash": "sha256:a5af55b2d499a665a29f8a9648de3f5f436c023343cae048690e270493231513",
       "size": 10177556,
       "url": "/packs/map_metin2_map_milgyo.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_milgyo_a": {
-      "hash": "sha256:342c0e2709436b1088ececfede20a1c7b8250d9f38b34ab4e179917464e19fbd",
+      "hash": "sha256:a2a9f75359242060504f7f5fa4e2c494c510bdf7580c47586c1718c044d652b9",
       "size": 10006612,
       "url": "/packs/map_metin2_map_milgyo_a.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_monkeydungeon": {
-      "hash": "sha256:ce0cf8a41aa51c01f428e7675645478092ebb543deb1e4ceaf8b806562ff5663",
+      "hash": "sha256:21436ee50c8bd93e95448604e454ac0cb1bc2866acb0867aa3d1e2a01e81325c",
       "size": 14009584,
       "url": "/packs/map_metin2_map_monkeydungeon.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_monkeydungeon_02": {
-      "hash": "sha256:7334bce4c3503e7e71169c44fee3aa86662036cfb5d020b0cc5de9a41ce1a0a5",
+      "hash": "sha256:c44d9b57322598f008fd803aeea2b94653bea3615fa92f26ad8f74690dc6d198",
       "size": 16313525,
       "url": "/packs/map_metin2_map_monkeydungeon_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_monkeydungeon_03": {
-      "hash": "sha256:55bea9c4491e0d76faf6539832db33db992ffd53be88ed4a0ea4526ce481f12c",
+      "hash": "sha256:eb96c51a89574a3dbe0f0f81b8f853a8f39ea45cfd41deb4d1d467ff8f5a2ab2",
       "size": 24692768,
       "url": "/packs/map_metin2_map_monkeydungeon_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_mt_th_dungeon_01": {
-      "hash": "sha256:27ffac8729502ed7a6e55d2981d7bf45df916ad98df026eabd89cac612d22d28",
+      "hash": "sha256:c3c143aac650882db072e958c67bf3a94f3429a129588c989d74da0a73207b7c",
       "size": 2565722,
       "url": "/packs/map_metin2_map_mt_th_dungeon_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_mt_thunder": {
-      "hash": "sha256:6c25e4071d57ae244f53ba9cb5523a338df75f026a843643747e1cfaf4a36ceb",
+      "hash": "sha256:89e2de088cd111b69f53420a468a1cf390f5f9d9071b380aca4e9a52557a18da",
       "size": 27730092,
       "url": "/packs/map_metin2_map_mt_thunder.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_desert_01": {
-      "hash": "sha256:0ed355008d2536c37afb919f51ed9d651e165635e036503b9b7973bced878355",
+      "hash": "sha256:ec861fa2dea107a1478897b174f278b7eab57926bccbde52fcd8fcbf8c3f28e3",
       "size": 20558812,
       "url": "/packs/map_metin2_map_n_desert_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_desert_02": {
-      "hash": "sha256:d92cee790fdcc2153fd4cadc856d3d7639db8d410126521d12db97e9506f01a6",
+      "hash": "sha256:493b6117cce9d81821aa4a246e26d15ac13820dd5862ff8e316ccd6ce93857da",
       "size": 20558812,
       "url": "/packs/map_metin2_map_n_desert_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_flame_01": {
-      "hash": "sha256:b8e3508250ff0a86be479ec8539d8b555a5f1cf11a0005842c030b5c76593b7c",
+      "hash": "sha256:3aad457e30b2f6bdc1f2caf434fd7606c00c0ad303f59014ece01d635916cd7a",
       "size": 16532450,
       "url": "/packs/map_metin2_map_n_flame_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_flame_02": {
-      "hash": "sha256:ce86dc21f879392cac737ff2170be881ed80206e2c1ee7a3f8a23414656972b3",
+      "hash": "sha256:3d96042d5c42b09f75b070d93bcfe9c251fdd326382031c74927c37d48b7b4c1",
       "size": 13897156,
       "url": "/packs/map_metin2_map_n_flame_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_flame_dragon": {
-      "hash": "sha256:da4e4ffa3a092d74373a749f519199de1cf9aeb213ce44a87dbc4ba8e794e9ba",
+      "hash": "sha256:bd87d7d9b6668295d4827c33e6a6832c555f343c6a37ff19a0cea384631fb9c8",
       "size": 309326,
       "url": "/packs/map_metin2_map_n_flame_dragon.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_flame_dungeon_01": {
-      "hash": "sha256:57968527ef9f79ccc225cbcd2617fe123be8205f909f731727e50e0f9316f4dd",
+      "hash": "sha256:9994c344ce0d69a5bd3c2a391efae1ef5011338f1103946653cd0e53904b7075",
       "size": 3318482,
       "url": "/packs/map_metin2_map_n_flame_dungeon_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_n_snow_dungeon_01": {
-      "hash": "sha256:2f92cc777bb4394cff829d8e4cdf0285cad360178c574bdcfedcd7a8b67706c3",
+      "hash": "sha256:4742bf9bff5e726a2119af57a3be1616c8e2849236d583da605e9ec278afaf5d",
       "size": 4409382,
       "url": "/packs/map_metin2_map_n_snow_dungeon_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_nusluck01": {
-      "hash": "sha256:389065f4bcbe2acd69501a9f85fcfabc8a82270a99c9475304c5640d34fb2ad2",
+      "hash": "sha256:a7b4756a03af6ac961fa84b25223046af0181d52e157c383266ab91846150654",
       "size": 6250826,
       "url": "/packs/map_metin2_map_nusluck01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_oxevent": {
-      "hash": "sha256:1d9c85c30ade931c1ba25e41ad1941ea0106fbba4099352c4bea9e5ccd382a67",
+      "hash": "sha256:8fd0aa0260fd4b29bd1d31358be8300ec83f4092dbc80803c1c490000fcf33c2",
       "size": 13008401,
       "url": "/packs/map_metin2_map_oxevent.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_shinsutest_01": {
-      "hash": "sha256:fa06ff81d364d6954e010361a82734ef87a93774daa8615455c77d95b8f6c4c4",
+      "hash": "sha256:ac21b17f1e4c97e2bf7e323777e82eed962f1e15876149df7d5dada4bb9bb661",
       "size": 12144977,
       "url": "/packs/map_metin2_map_shinsutest_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_siege_01": {
-      "hash": "sha256:965c41077b675da57b06d0efa1c7a929576d19d5ec0a8990daae7cd1060e4c7a",
+      "hash": "sha256:a37fdbd04e3ecd830b7b2e7df3efca1f05e6acb974a041edf10693409c7d3290",
       "size": 11862812,
       "url": "/packs/map_metin2_map_siege_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_siege_02": {
-      "hash": "sha256:501c45d3716e4bb4862982c5b11364ef559ee8e65062519603c9372d83b6012a",
+      "hash": "sha256:f1cd4e915f5df01525fcd9a67b2c93a327ed90b2f5c9dd3c4eb67eb1cb8e6522",
       "size": 11863080,
       "url": "/packs/map_metin2_map_siege_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_siege_03": {
-      "hash": "sha256:7044df3a42abc5c30e15c903dc71d2c73b494295bf0411fc5c7c99464201bab6",
+      "hash": "sha256:3e113319b2699e21c244b9de751e294b0b5511a3d67928e5996a14c5c8041b6f",
       "size": 11862812,
       "url": "/packs/map_metin2_map_siege_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_skipia_bossdungeon": {
-      "hash": "sha256:c8b96505612f6b2ba11c27c75dc71d14ff827223b6d9ae13a0a09f36caba0e3d",
+      "hash": "sha256:0376034686e96c3b19900757bbc851d1caa13b41c898f18c546940c66f228156",
       "size": 270414,
       "url": "/packs/map_metin2_map_skipia_bossdungeon.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_skipia_dungeon_01": {
-      "hash": "sha256:3ff634935694644a31825790b66d911588b59ae14fa38d0b5ea3755a0200ea72",
+      "hash": "sha256:8d966e7c83ba75c68f455e00c2c47f09f1d5d54e4be3d9a596c329081f30b702",
       "size": 19090253,
       "url": "/packs/map_metin2_map_skipia_dungeon_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_skipia_dungeon_02": {
-      "hash": "sha256:8e9503d7f31049ffb3c1203fb2a230c8d63b316add45728700eb1afb775f7039",
+      "hash": "sha256:825ea4c4c411c8e4c8c208657f90e3aa04731ff7537d888b53480b8ece046ac5",
       "size": 12057713,
       "url": "/packs/map_metin2_map_skipia_dungeon_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_skipia_dungeon_boss": {
-      "hash": "sha256:00c159a07993db7331d2f538fc661b140fc2fcc96560760f0389e843946a66f7",
+      "hash": "sha256:03afe95dbd677cda8855dd9474b2a71f855660b9d4053ff38982a93fb706e447",
       "size": 1019696,
       "url": "/packs/map_metin2_map_skipia_dungeon_boss.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_spider_bossdungeon": {
-      "hash": "sha256:82dd344631860bc7435df7e8c768355adf72ec070d0c1814b2cc72d2778b3a45",
+      "hash": "sha256:cb07a6944fab8671b76ff1f8f881bdd9574aa5f1367330f7c575f683d298c2a6",
       "size": 256506,
       "url": "/packs/map_metin2_map_spider_bossdungeon.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_spiderdungeon": {
-      "hash": "sha256:93d1c06f10f8f0061b6b8eb310421274bc46dab0a893764a774d79171aa29929",
+      "hash": "sha256:8299d3f9e06a669dd564cabcaee87e572cbd9d8cd8897483e6a525384f19d5af",
       "size": 2249374,
       "url": "/packs/map_metin2_map_spiderdungeon.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_spiderdungeon_02": {
-      "hash": "sha256:b43986e9088a1dea6a3aa2a3866d9fbaa79372703fb8d0644d43cdfdfa793a1a",
+      "hash": "sha256:4463eec7ad621b37de1ba0ea8f51ad69abe1749ae774dda3ddb7fd13c7dba83c",
       "size": 4815024,
       "url": "/packs/map_metin2_map_spiderdungeon_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_spiderdungeon_03": {
-      "hash": "sha256:d59514f73929dc930ee45e95fa103647356bfcfff330a383a72df16c3632459b",
+      "hash": "sha256:0365968cbe40acc54f50efbcac725a88e39bbf739e11467c8c15ea036c6e0760",
       "size": 2265144,
       "url": "/packs/map_metin2_map_spiderdungeon_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi": {
-      "hash": "sha256:17cc28ec8ce369f0d65b24ab236cd612cf7ece6c9017c47ee48170a5234555c0",
+      "hash": "sha256:75d73603349ea4d8b3fb1340dcc171c9f107a50587fa2eb2fa6be3f0152ea6c2",
       "size": 2249401,
       "url": "/packs/map_metin2_map_sungzi.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_desert_01": {
-      "hash": "sha256:f5c3a9155f69e81c1ac610aa5acb17e9dc4c910d783cfb1bb61aa96b1e0037be",
+      "hash": "sha256:ccedb6f70d828b90049abdb4f506a1d367ad098dd00b268f2d06296aee8d470b",
       "size": 5789468,
       "url": "/packs/map_metin2_map_sungzi_desert_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_desert_hill_01": {
-      "hash": "sha256:2b5ac5d2fa8bc940df0dfa87555c9644f60637d5e1bbb28b6d091542ff3b5d47",
+      "hash": "sha256:4a2f897e4653dbe3993e9efbbdb2fe891cae15bb4a3c025e93c7771f5509ad31",
       "size": 4270680,
       "url": "/packs/map_metin2_map_sungzi_desert_hill_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_desert_hill_02": {
-      "hash": "sha256:8202f9b95bbe75d088b26a6158bcba81c2f0d91d7ab34d860dfc4cb37362a974",
+      "hash": "sha256:327b5f30bc1c68583c373162cc1ef84bb13e71f2062c260396f974ccffa2b88c",
       "size": 4270680,
       "url": "/packs/map_metin2_map_sungzi_desert_hill_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_desert_hill_03": {
-      "hash": "sha256:f6d2eeb073f30b289d72efb8f5f4136ab1f52aeb039d10d433d28292fa12ee50",
+      "hash": "sha256:cd8fbd3d88b80cd6ae4972c08c65847ee422fa3cbfdb9c4bd709e47f889afb57",
       "size": 4270680,
       "url": "/packs/map_metin2_map_sungzi_desert_hill_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_flame_hill_01": {
-      "hash": "sha256:9c7457bae6daa26672a335ebdf846b1e7ea078dc39498b29f43aacba59687c6a",
+      "hash": "sha256:5529673ad60ac5da7b66624e51b2259f512d2260c9949d2a88f30ef54dd8cfea",
       "size": 2666347,
       "url": "/packs/map_metin2_map_sungzi_flame_hill_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_flame_hill_02": {
-      "hash": "sha256:6ec83a4bcec13edab621696d41bce72ee907692a9994a136eeaedb0850621461",
+      "hash": "sha256:d63641394fe28da54cc913c6c32d0d62f9ac0047adca13584a97a973a76d4ce5",
       "size": 2666347,
       "url": "/packs/map_metin2_map_sungzi_flame_hill_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_flame_hill_03": {
-      "hash": "sha256:dae29d2028bd833e133eb8cecd6b5863a79a3bed58cd2d16a94673fd0d72b601",
+      "hash": "sha256:7fa1f4dafd3fbf54edda7d3c8fa63a5b3896361cbc0576001f98672c60d8534f",
       "size": 2666347,
       "url": "/packs/map_metin2_map_sungzi_flame_hill_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_milgyo": {
-      "hash": "sha256:eb8c00b19179b06653b959bcc4c93c1570151e378745a28b3dfca69a8e17498a",
+      "hash": "sha256:aa6a0ecb05100cd1ce4b77c346107c4d1436f237e31274eda4f300416c862137",
       "size": 5070786,
       "url": "/packs/map_metin2_map_sungzi_milgyo.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_milgyo_pass_01": {
-      "hash": "sha256:a797e661693e56cbdf84448cf96a8ea4dcea93a4f7de67cdb6bfa8aa55643e00",
+      "hash": "sha256:8177ab1b68e7b425118cc1347f8949fcbea1eb66273a5fa1179614f0eb3f3445",
       "size": 4251186,
       "url": "/packs/map_metin2_map_sungzi_milgyo_pass_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_milgyo_pass_02": {
-      "hash": "sha256:48ccf1f06984a2943b9d7da5af9185d9bc86a0eb664b256f12bae0415a32bf2f",
+      "hash": "sha256:5a0577744de9844139a3733335884af53fc2bb44c3dcac380bec046260a1c75d",
       "size": 4251186,
       "url": "/packs/map_metin2_map_sungzi_milgyo_pass_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_milgyo_pass_03": {
-      "hash": "sha256:8d9bf69f2389d681521612db80cc386ff3eb9537ed799743b85046b86a52467d",
+      "hash": "sha256:30fbc996c61ff9d83d1c9b6757bf51a71c72ad68a45853f29e5de17721c64475",
       "size": 4251190,
       "url": "/packs/map_metin2_map_sungzi_milgyo_pass_03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_snow": {
-      "hash": "sha256:5b0e4bf631b3f7288a132b17f28ab9dc2365aa01c32de905e4a3170991d690ab",
+      "hash": "sha256:4f6c62b013ca350b803adea946dc314b07f6fb754624f4e258c7517be4486837",
       "size": 3605331,
       "url": "/packs/map_metin2_map_sungzi_snow.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_snow_pass01": {
-      "hash": "sha256:c76beac3267ca2d47ee48ea142338dbfb871cbe3cfc55f12663f6ad024fb9384",
+      "hash": "sha256:80397c6838cc1daa14eef2171ba91661cb64ce7f866de7a16e0c4d080a091e17",
       "size": 3832911,
       "url": "/packs/map_metin2_map_sungzi_snow_pass01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_snow_pass02": {
-      "hash": "sha256:6fcb33a8ceac20bb607eea65059f818863933db53a597a85db70ee71a09fd713",
+      "hash": "sha256:7b33484c621a4e03c62707a0699568a8f0ef81e8eb5f99fb391280d32b8cb0a3",
       "size": 3832912,
       "url": "/packs/map_metin2_map_sungzi_snow_pass02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_sungzi_snow_pass03": {
-      "hash": "sha256:e6c57e9ef3e5fdd43f8b8d75dbe240e93ae27abad1f126d3cdfe7a83b3513315",
+      "hash": "sha256:5678c9195a3abc5e0155bb13a1792fae5983e93ddb0ad76655a3fa4a462e553e",
       "size": 3832912,
       "url": "/packs/map_metin2_map_sungzi_snow_pass03.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t1": {
-      "hash": "sha256:bfb733d55c5d80f39cc4eb994c2d2a8fc51c6323b13ab9a2928cfc773ac7f6af",
+      "hash": "sha256:67c5a2499ef48ba4713472418ac40896c02ba73419a68b0dd02b1b7ad3f0fa43",
       "size": 4470058,
       "url": "/packs/map_metin2_map_t1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t2": {
-      "hash": "sha256:187583e4e5cec77ca37357b585273b2a2a14a4bf8680b0d8ed09657fec2624f1",
+      "hash": "sha256:520d421185b03f7a00b15944ffcce76968271323a6a11ddd18c8c478d7603022",
       "size": 1311214,
       "url": "/packs/map_metin2_map_t2.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t3": {
-      "hash": "sha256:e9083b01f96d9f1f76cbb26fa4c54aeab63f5fc46ea2613e9c33ca7f7558039d",
+      "hash": "sha256:f94140c443ebc59722314cf91eef16a1d43cc2d40ca99db41d5ece39c66c09f9",
       "size": 1131396,
       "url": "/packs/map_metin2_map_t3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t4": {
-      "hash": "sha256:ded761a9c7cd78140eae022c70028ec416bc60e4e07fa1fdb1b97fe6c567cfea",
+      "hash": "sha256:d4a2175f51aa9022d3cf2e2cdee4d4adc06c68c586000f8b6651cda31bb9686a",
       "size": 626362,
       "url": "/packs/map_metin2_map_t4.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_trent": {
-      "hash": "sha256:bd6bfb548cf1187229f923d84ca16bcf579cf815ece69510c4cee18a40521af3",
+      "hash": "sha256:f3da6d40fc372cf1813f6855c148093611de1bab32f7fac83a4288535f7a09c5",
       "size": 5543397,
       "url": "/packs/map_metin2_map_trent.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_trent02": {
-      "hash": "sha256:a70551460bdf9872172aa2bce1f7629f66eb8e2fdcfae6aab1ba713cb58faecf",
+      "hash": "sha256:d9c4be988dd709070c4f16940b93be79a7a6a54a0bfdde15e14f8bce58c25e28",
       "size": 9122277,
       "url": "/packs/map_metin2_map_trent02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_trent02_a": {
-      "hash": "sha256:22c2dc285a233b0f554f6db5b3a0fc8682b44252ba0dae5b87c61743829597a5",
+      "hash": "sha256:498c7f42a064e81af69040953762d496ac83d4eff676216489a9aacff15799fc",
       "size": 6877273,
       "url": "/packs/map_metin2_map_trent02_a.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_trent_a": {
-      "hash": "sha256:6e2cdc226f6ce4735fe2412fe5a1c2ab85c7ea3617c6db28ce2dcfd849a1ffba",
+      "hash": "sha256:f7eea7160851b8eda90cd6c86b1250446d195c57fabfe772087daa6797788f4e",
       "size": 5524671,
       "url": "/packs/map_metin2_map_trent_a.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_wedding_01": {
-      "hash": "sha256:e59262e735fb0169a1bbd11a7d1b81f05dc4f6ce4b912fb1134f91b87651b28f",
+      "hash": "sha256:b856a265e8b3de10f0da9680a28577ba0291c1ccc40bfc1caa1971a21b794362",
       "size": 3213076,
       "url": "/packs/map_metin2_map_wedding_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_wl_01": {
-      "hash": "sha256:e90c74c13559f1a74babdf8f057af956a056a3a1f05b3461721ee95e6e746e17",
+      "hash": "sha256:d94adf29ccd94cee01a2f7b128933a3486a02a91a5583a1b8a361b89ec5a8e60",
       "size": 16331547,
       "url": "/packs/map_metin2_map_wl_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "misc": {
-      "hash": "sha256:dfdc4a54408dd8c808ac3d7422aaa42d62d305846df7e4d7b86c104523968d33",
+      "hash": "sha256:90c19d42d127e5ad25d02cd21bb1dbb878fad86715c383479b3b5fbbd7cf37c3",
       "size": 16516670,
       "url": "/packs/misc.pck",
       "priority": 1,
