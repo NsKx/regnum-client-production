@@ -4,9 +4,9 @@
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:3f50e3381d3adda8f2d95a81159a5fe8fb08da8663b4561245bb98219873d0bc",
-      "content_hash": "sha256:7bc21c4cc0749dc8ff8bfad38a7eba88bd203adb601c5c14f45684f4e08a7e11",
-      "size": 4391325,
+      "hash": "sha256:5a90773d2bac901a52b11d7625816893572f1dfdde9dabbe9d7a31ceb2682edd",
+      "content_hash": "sha256:28314aed97c6824d47abef9f70c713f9ac6b7e0e5c671c1cb8724cae43ea7aeb",
+      "size": 4391357,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
