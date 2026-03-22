@@ -5,7 +5,7 @@
   "packs": {
     "game": {
       "hash": "sha256:ef24bfd4dc48445fd195c74f66a9bd1864cde3f3a86940e52b86c8982c5dcaa3",
-      "content_hash": "sha256:85a6062ffbd8de6f30d56bba7248f28357adb4afbe777e65607c33df748fb788",
+      "content_hash": "sha256:f5f93d01f324ab844f9ff2af6d8f464dccfda6949c3a670b133d1ee0f2a02e93",
       "size": 3406536,
       "url": "/packs/game.pck",
       "priority": 0,
