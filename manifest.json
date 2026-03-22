@@ -1364,6 +1364,6 @@
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:f9f1fdd0c72a5c7c24ba7ccefc5f08fc7739bf831aae524755a7425b7f977b6c",
+  "exe_hash": "sha256:a60186c7c72a8a9efa1584e848d52dcc6426c51a8617a409facbc47c5bcec04f",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
