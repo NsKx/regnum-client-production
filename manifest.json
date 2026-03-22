@@ -1,12 +1,12 @@
 {
-  "version": 3,
+  "version": 4,
   "rollout_percent": 100,
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:6921ea36f83b1b576f2b386ce4ddb3f0604d15871f9f4fce3856985c2e7b54d0",
+      "hash": "sha256:c6884d70aa54507f37a8cf205a9f5d93f1a5d79ce49d6f7d398063453f8df726",
       "content_hash": "sha256:c2eda8e81d814f00b3f5f4f9bdf91bc43263b0459645e4f055ca1beeabd456ae",
-      "size": 4402000,
+      "size": 4401520,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
