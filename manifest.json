@@ -4,9 +4,9 @@
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:da4ac67f7524c306dd82b2b1e9fefac5ec6c9e67bcf2171cfa6a0629f84531f5",
-      "content_hash": "sha256:71fcc486a588ef1fb2ea80046ab0982b533c0e611280c3a99cf00ef4795de8a4",
-      "size": 3415240,
+      "hash": "sha256:0a39f98defbf6138ad7f333bd0b0824cb995efc037ec38602081239f0b3f9e49",
+      "content_hash": "sha256:4fe5e39be4ff00b752947ea37871aadf9aeadea88dcea3560f16b3ceeaf335c8",
+      "size": 3415944,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
@@ -1364,6 +1364,6 @@
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:e449c662304367842c2a81d5caaf20fa4a76c4e26056356fdedbb7be74602dd5",
+  "exe_hash": "sha256:9244e28b0afb968fa142bd1bf23f1dd84e404d20c5a8497c7946eaa2267febe8",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
