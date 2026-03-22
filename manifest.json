@@ -1,10 +1,10 @@
 {
-  "version": 4,
+  "version": 5,
   "rollout_percent": 100,
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:c6884d70aa54507f37a8cf205a9f5d93f1a5d79ce49d6f7d398063453f8df726",
+      "hash": "sha256:9ab779a63c0fffcbb065b9006dd0291b94307be83eecebe803ebffd692496f00",
       "content_hash": "sha256:c2eda8e81d814f00b3f5f4f9bdf91bc43263b0459645e4f055ca1beeabd456ae",
       "size": 4401520,
       "url": "/packs/game.pck",
