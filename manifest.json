@@ -4,9 +4,9 @@
   "exe_version": "1.0.0",
   "packs": {
     "game": {
-      "hash": "sha256:2b3fb0b28aa8076ef8f99935beeb6ca2baa675a2f34571d60a945dcbd23bc840",
-      "content_hash": "sha256:0dd7fea545ce05401c90d193c76261198a644ee20fd9c09db9139b54e7f21649",
-      "size": 3469748,
+      "hash": "sha256:2235556a898bbfc8bdb22ed95e0d9435df6267a87aa7619f19c0c1d36e68d14c",
+      "content_hash": "sha256:1e7f9ec15bff331f5138ba6709c04c1db9b8beea28004666f5e6dbd29cb571b6",
+      "size": 3496044,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
@@ -723,42 +723,74 @@
       "priority": 2,
       "requires_restart": false
     },
+    "map_map_a2": {
+      "hash": "sha256:029e4f95cf31e8fbe195c060ea2d885d6b48736bf3cc1d74b150504295e80e68",
+      "content_hash": "sha256:f9c0a15659842a1765281616da96677c30c68bc6bddd0fcbd41a13f9bf702c1b",
+      "size": 532,
+      "url": "/packs/map_map_a2.pck",
+      "priority": 2,
+      "requires_restart": false
+    },
+    "map_map_b2": {
+      "hash": "sha256:be10bd0e4e889c621a5ce469af9fd29e8e6b363f6898ef8d33cb19a5bbe2033e",
+      "content_hash": "sha256:8c8ff40c0e1ecf7b06e3ff207ff6b45d7a5d1d78ce5b5d50720d9c6f309ae95e",
+      "size": 77128,
+      "url": "/packs/map_map_b2.pck",
+      "priority": 2,
+      "requires_restart": false
+    },
+    "map_map_c2": {
+      "hash": "sha256:e648c67c76d96a5eadced5846ca08f3abec9af79897e17e8feca556f367ffa4d",
+      "content_hash": "sha256:65c88fff0a06009af1f3b210f1186096b9c06e6d85913703838bc22ddf9e7a32",
+      "size": 84680,
+      "url": "/packs/map_map_c2.pck",
+      "priority": 2,
+      "requires_restart": false
+    },
+    "map_map_n_snowm_01": {
+      "hash": "sha256:6530bff546e6336f33aa29629a8d43ee3d3f60dc70bc9062b1f064c067226464",
+      "content_hash": "sha256:ca83bd9e467c65ba6cb9911225fe06fbaccb0b0f8235677fb5115b0c35ca4bfa",
+      "size": 65208,
+      "url": "/packs/map_map_n_snowm_01.pck",
+      "priority": 2,
+      "requires_restart": false
+    },
     "map_metin2_map_a1": {
-      "hash": "sha256:60f235290f800d95454c23e5f9502a27eea1816748c26272c2576ad3b1471547",
-      "content_hash": "sha256:2124c46ff8f55c121b72293d2f737396eb59c17219816ecd9e2b840e0deb7ff0",
-      "size": 11804900,
+      "hash": "sha256:1822f1fdb4cacfd718487ff2c17716ee7832f050379ab30bc9ad2e83f387e5df",
+      "content_hash": "sha256:857713d5801c491962133b815c555be3ff549432b14173d5cf175de29822fcec",
+      "size": 11851508,
       "url": "/packs/map_metin2_map_a1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_a2_1": {
-      "hash": "sha256:2c0335b62e9df606eda2b82651ab3d57a626a72501ca8d6bd442d747f54a9482",
-      "content_hash": "sha256:10b969f3e684bca930f84a675fd2c0472942bf6f5339938842514151154e6e4a",
-      "size": 12664372,
+      "hash": "sha256:6ac229bce863561b78df8a8ed20989998bc005bc556e174761be29240c022224",
+      "content_hash": "sha256:82727ad7d15b91e3622472a0af6568c4c34a431c4fb47ca003b0c8b0164fbd84",
+      "size": 12745840,
       "url": "/packs/map_metin2_map_a2_1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_a3": {
-      "hash": "sha256:6433c11960cd0ff938ecfb7b30aca7f96d047e7d36c9081ef4a4e720f870119b",
-      "content_hash": "sha256:cafda6971313561a3902b0118fea17ae1c963a3b5d94528a2ae0a23d581c8089",
-      "size": 9923472,
+      "hash": "sha256:d209c83be15d17f55ac723fdcd8952f60ef2db9f744d6130dc238912c8e2330f",
+      "content_hash": "sha256:5259405c0fe7376e48a8a1c610f6ea253134d96dd895603d6ccb6a0eb5803f97",
+      "size": 9956256,
       "url": "/packs/map_metin2_map_a3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_b1": {
-      "hash": "sha256:97f2b77978fe5c79b3dab3516374f3759c50ed4d7a900ebfa6e5723d3785d74a",
-      "content_hash": "sha256:e814f7b38ad993b51e2b2af5f70a94f85ac79274f16975980f355ee76a4d5561",
-      "size": 11223904,
+      "hash": "sha256:6367f7bbd0137470022a4978ac98f94d5f9214b9dd5a62965897a6be7f7a47d1",
+      "content_hash": "sha256:968f3d156bb61e88ec85d57555e59d541a25958bad9ecfe157135804fced596b",
+      "size": 11263568,
       "url": "/packs/map_metin2_map_b1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_b3": {
-      "hash": "sha256:876391a96b447b4484c60fa9b8884a7d1861c3ccf0dea7894d61f58b2df9cc32",
-      "content_hash": "sha256:d6df95d083dbcb0eb279dfdaf3dc6130da1e9a76e191468ec76b2cba5b7b2c8a",
-      "size": 9369668,
+      "hash": "sha256:b7870e9191467c6dac94da08d9d0c0e3f7b89313edea41f72d12da421e03ea17",
+      "content_hash": "sha256:ff77b6adfbc6b3c0f2b86ac137898ac968b37548f0d9c7cf32c175d5997d451a",
+      "size": 9398964,
       "url": "/packs/map_metin2_map_b3.pck",
       "priority": 2,
       "requires_restart": false
@@ -780,17 +812,17 @@
       "requires_restart": false
     },
     "map_metin2_map_c1": {
-      "hash": "sha256:50fc875fea5b51f9515c18defd5bdbea48e04cdf7a5108744ac4070f6c50243b",
-      "content_hash": "sha256:e40205ae93aa4ec353bf48500399851ffef999dbd5b1d95a15f0062e7800ffe9",
-      "size": 14848428,
+      "hash": "sha256:7792bc31136606819a0a0528d8ac7152b341e3b125d5df70f3d33eb571484bb2",
+      "content_hash": "sha256:b2925073ffb4299e5709a6120e0dcc6f2ad9fae31dc53877fb401f3d9fe2efbc",
+      "size": 14888828,
       "url": "/packs/map_metin2_map_c1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_c3": {
-      "hash": "sha256:22409879ea454ab6d3801e4ec5d421fe015e036d8b101585e1edf3546b10b33c",
-      "content_hash": "sha256:aff300264b39a76302458a3218e3c5e838d43cfbbb209eb5e25aea5b27e32915",
-      "size": 6743580,
+      "hash": "sha256:7349bb2ee41be41dd14a5792e606c34cd97f5b8a230a740c5b428bcdb1e84a4b",
+      "content_hash": "sha256:52e7eaa530026232eeab0a285180e987f6362dd9bad9fe93c5aa151fcbd4a9bc",
+      "size": 6775244,
       "url": "/packs/map_metin2_map_c3.pck",
       "priority": 2,
       "requires_restart": false
@@ -892,25 +924,25 @@
       "requires_restart": false
     },
     "map_metin2_map_guild_01": {
-      "hash": "sha256:8811f3f391186504f89bd63f86163f6a0061916ed085fe6e6d031cfa1fc90077",
-      "content_hash": "sha256:af5e6b363f09b5789b0da8f027a436cc4d00bd8acac9fd8b01602277b1639997",
-      "size": 2817392,
+      "hash": "sha256:d210d26e56e422eaed7abd20ecae35dfacc41eeb285408c3530946ec07df8b57",
+      "content_hash": "sha256:2ef35391c7abffb41704c8f6e47e4330f54cd6eb4b71e8f56ca1826bcbde6d43",
+      "size": 2853904,
       "url": "/packs/map_metin2_map_guild_01.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_02": {
-      "hash": "sha256:74c627a68201a6d610408b3edd84be65125667c252848d4be6f89950e09d1743",
-      "content_hash": "sha256:68b656d3acd6cdeaaaa65bcd5e8e2f8006b7dcd754b8474fbe04829ee5b6755c",
-      "size": 2986348,
+      "hash": "sha256:232229825fdf1d92bd64e845411cd85597b979056e00f75a18f2ae5bc834a5eb",
+      "content_hash": "sha256:08089ed7c36d67a8e0d38ed4436393535c299d63d678eee0af0a79e7c6904223",
+      "size": 3024748,
       "url": "/packs/map_metin2_map_guild_02.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_guild_03": {
-      "hash": "sha256:66513ee85109e1a4bd3193c2c64168e54bb7477c8d9ed192aa344eb7c54aa71e",
-      "content_hash": "sha256:a28fa80c4ea01874c641bdd0fe4dd901ddd6f39cc9915aa504431d7b49534eb2",
-      "size": 2300844,
+      "hash": "sha256:ff350243e211de367b10533ac0179d04d7e7c744ad31b9bfe6abcd18bbc18c82",
+      "content_hash": "sha256:07a0c049dc6be78df9d3d4cf166911c6a5d8a808c095606ef7705281a9ec3804",
+      "size": 2342924,
       "url": "/packs/map_metin2_map_guild_03.pck",
       "priority": 2,
       "requires_restart": false
@@ -924,9 +956,9 @@
       "requires_restart": false
     },
     "map_metin2_map_milgyo": {
-      "hash": "sha256:787f05d8d92f2e4eac3d303e4b13813fb38c0934e65fb9a9b6f46aa93138743d",
-      "content_hash": "sha256:5c95ae2b5ca61d637d21c836f794898e04364064ed9f18c78af655927cf517b7",
-      "size": 7307232,
+      "hash": "sha256:2fe985355f411c559efd4b356f4cb1080745b0b6ac8b39a9dc8d208a6f40c82b",
+      "content_hash": "sha256:a9bfaf7e5b4fc16048d3988fb9e71e2935caf787b5a1f34458a30d52636bb7bb",
+      "size": 7333984,
       "url": "/packs/map_metin2_map_milgyo.pck",
       "priority": 2,
       "requires_restart": false
@@ -980,9 +1012,9 @@
       "requires_restart": false
     },
     "map_metin2_map_n_desert_01": {
-      "hash": "sha256:3fe93ae61c5229785fb4788a2d134a5f0a296b5b9fa1dab38355ae3c11c6687f",
-      "content_hash": "sha256:9e096096654e0b6df8e2e752da3436e984ba832b9b16d2e4a9f1cdfeeabe0461",
-      "size": 13517552,
+      "hash": "sha256:d07f7a1ca1c8362a8a04620631403f0130053978a235b87fb6f726b98e3567fe",
+      "content_hash": "sha256:ef800f211641e77207191fdeabb19fb682ac1ad941c2c6528ac23235de9b7d9a",
+      "size": 13596404,
       "url": "/packs/map_metin2_map_n_desert_01.pck",
       "priority": 2,
       "requires_restart": false
@@ -996,9 +1028,9 @@
       "requires_restart": false
     },
     "map_metin2_map_n_flame_01": {
-      "hash": "sha256:fc1d4b57ceb131df92ef2abdd4b4f7916c175f87cfd1e54983a66e4baee29290",
-      "content_hash": "sha256:8358e9816e48347526986bdd2cc0baaaaaf246746aa7ea68f35be120b5255a65",
-      "size": 12922024,
+      "hash": "sha256:226307fb99f9469cadc595dff009a2e05d855d6397852f7ead1df46101345e5f",
+      "content_hash": "sha256:8814ce832aeec33005844bd3c209ed497faa6a29121aff4ad9dac4f33bdb506d",
+      "size": 12983784,
       "url": "/packs/map_metin2_map_n_flame_01.pck",
       "priority": 2,
       "requires_restart": false
@@ -1276,41 +1308,41 @@
       "requires_restart": false
     },
     "map_metin2_map_t1": {
-      "hash": "sha256:772e0b967277ef3add185a46934f018aad932c376c211ea663232705a3f32d38",
-      "content_hash": "sha256:c83707f65633f88dc6b2f4ab351bc173013cedd985b26d6c8928970f2fd071ea",
-      "size": 4099036,
+      "hash": "sha256:7aa8ee7d6943d5bafdc8d3ed5d5f896485aa9031946fc51ac4f77137ab97e525",
+      "content_hash": "sha256:4dfa7a130656bbb955277fcffe3bb5e5650b3bb45cb7e1384dd29805b32c3959",
+      "size": 4127672,
       "url": "/packs/map_metin2_map_t1.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t2": {
-      "hash": "sha256:8b2399c92c03e42972c215c50935f5178dbec7f45e43ca767a57bb4006061b3b",
-      "content_hash": "sha256:4005a06377bd09c8de7febba46d64fe62389b88614dd636016c06e47af6dae44",
-      "size": 755660,
+      "hash": "sha256:0ff7cad8fdadb9d109fd3ac26119f292eb58b3be70d28ac02f97f879cbbec2a5",
+      "content_hash": "sha256:5afb4889e9724b93c3f1c06b26c04e2b53551fd39a2c9f2e82cf5d520cdbaa92",
+      "size": 796616,
       "url": "/packs/map_metin2_map_t2.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t3": {
-      "hash": "sha256:b1662152faabf6d148016ca8619dfe288ca3dd90cb2a6ebbf7c521d110cb4042",
-      "content_hash": "sha256:875f0dd7ba5060e10af02f484efd153257f39afbd90e488961ce247a8eebd895",
-      "size": 668180,
+      "hash": "sha256:6e148fd525672a8c6eaddbe07222a3f0439c3401747405de3769164152d9aad8",
+      "content_hash": "sha256:1e880b2b2c77e0b6e3e5ef8d3560bcff1db7701d846d7be9729770a390161fdf",
+      "size": 737936,
       "url": "/packs/map_metin2_map_t3.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_t4": {
-      "hash": "sha256:5db052d52ab218709e9ca684531138ec3c23d558a82efaa0185ed5bcc64b8755",
-      "content_hash": "sha256:0d9eca26e1693b3bc7ad8a6118211f78f46e02f2b18cfd907581b6636d239ee2",
-      "size": 442704,
+      "hash": "sha256:24cfbbee7c945571bbe7030640ea6b91c0ed70408b99a38773f77ea4635d9b56",
+      "content_hash": "sha256:1e9ee47e4839dd0e40b74ab0a3a5f1c6a1dadabd02ec95cbbb53321f90a5831d",
+      "size": 512588,
       "url": "/packs/map_metin2_map_t4.pck",
       "priority": 2,
       "requires_restart": false
     },
     "map_metin2_map_trent": {
-      "hash": "sha256:568bd706a4f3d0650b3c1f8c58d4e4dd8d0f32310e0fb495566f301d08114dba",
-      "content_hash": "sha256:9724e6828fc204f25dbb3dcec0a7833fdcdfbf5adc7bec4c274145a2f8ce5397",
-      "size": 2688028,
+      "hash": "sha256:082eb7c66a50636cfc49ec9305968eaed62a959e06737250ccff09f7bd9bf1e2",
+      "content_hash": "sha256:8863b1c9877af4cd6e2189000e9a3fb300018c73b33829156f64044f77486571",
+      "size": 2720828,
       "url": "/packs/map_metin2_map_trent.pck",
       "priority": 2,
       "requires_restart": false
@@ -1356,14 +1388,14 @@
       "requires_restart": false
     },
     "misc": {
-      "hash": "sha256:f827a06577d45a0ffe9c9c3a9b447aecb7d6859032c231d1cd12c224b5aefc34",
-      "content_hash": "sha256:edc31dfc3d70ae7b43f1825eca68f795eaf38aa27c94a4c36665ca0aec5ff5db",
-      "size": 13943168,
+      "hash": "sha256:8044be4596b0293b250f7e6364fadf56541471251631c3da269db83a111ccdeb",
+      "content_hash": "sha256:8abe857dbfada30adc0e527ce56ddba4acff8ee78f8518aaf4a10ac77b1f4c53",
+      "size": 13969828,
       "url": "/packs/misc.pck",
       "priority": 1,
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:714638a3d534addd03283bbeeb5a585bb678d15c668e4e1fc785d756bee1a782",
+  "exe_hash": "sha256:d00a1ac83503cff1523057285d96ba588ba89e477d1e957410f4148e3753214d",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
