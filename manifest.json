@@ -2,46 +2,15 @@
   "version": 1,
   "rollout_percent": 100,
   "exe_version": "1.0.0",
+  "apk_version": "",
   "packs": {
     "game": {
-      "hash": "sha256:6463e36b7b5387fad8a7788f0181d4c6ab36f3a6d5b1e590ae120acb24e18959",
-      "content_hash": "sha256:c6b216f3c26d2e4bb9b9799d128a39f32ca9af6d30a315c0ded2dde18811cd26",
-      "size": 3654244,
+      "hash": "sha256:82a8bfea631001d9a4a78f3fe034bc64817ff4b1102016fdfdf3dad3d5cb05a0",
+      "content_hash": "sha256:40617823bcb6b7333dbd941c832c4552369799f07d0e6d914a9f9b9623872ffc",
+      "size": 3670212,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
-    },
-    "char_warrior": {
-      "hash": "sha256:97f838868c361f3ddd1549fdcb172d1a58d0bd37392f5d6475d90778f77a562e",
-      "content_hash": "sha256:97477d550e430a61fd48bc8a83a6833880e85ba23e8a972fe4a0a3e968ef8943",
-      "size": 8651664,
-      "url": "/packs/char_warrior.pck",
-      "priority": 1,
-      "requires_restart": false
-    },
-    "char_ninja": {
-      "hash": "sha256:cafee17b2e895c759d5f51bcae19ba0235381cffe0c8e3dee69fe07159f3118a",
-      "content_hash": "sha256:4f93046f6537213b7d3544a31837e32fc0763d6fd8b1318cb9208b0bf6634a4b",
-      "size": 7344312,
-      "url": "/packs/char_ninja.pck",
-      "priority": 1,
-      "requires_restart": false
-    },
-    "char_sura": {
-      "hash": "sha256:44031b9430e46e4f6ff1af764b218707d564f21cf49f2df70d789613b3bffe8e",
-      "content_hash": "sha256:90495bfde923c1be487341f8428de5247a0e3af9e6bf1cd32752fea03d4ac2aa",
-      "size": 8133040,
-      "url": "/packs/char_sura.pck",
-      "priority": 1,
-      "requires_restart": false
-    },
-    "char_shaman": {
-      "hash": "sha256:d0e56fa7cb94042bb523955653d845361946aa6b865718b3f1ae692c29052635",
-      "content_hash": "sha256:31214bb23ec06d4bd87cee5f65e1b92b2148a6e4b5ba8e4c6a0d9f9f4894d2c2",
-      "size": 6402736,
-      "url": "/packs/char_shaman.pck",
-      "priority": 1,
-      "requires_restart": false
     },
     "weapons_01": {
       "hash": "sha256:7c1309bed5b6fcf6e1123f7046ae405755be1096fdd90cd4d8b5a2fd6fd5378d",
@@ -1387,15 +1356,71 @@
       "priority": 2,
       "requires_restart": false
     },
-    "misc": {
-      "hash": "sha256:61a35bd92014eaa417c576ec843ec9dce50f60e68ea4f2913183950a96bed8ce",
-      "content_hash": "sha256:e4b3caf0017dbfa23c24f8cd602748843b99161c5eff708426c3299337a38d60",
-      "size": 14046552,
-      "url": "/packs/misc.pck",
+    "misc_01": {
+      "hash": "sha256:77fef1c2ac6cc2f3b499e00b64b03a15906087d053ce003d11e3fb1e1edd2766",
+      "content_hash": "sha256:3b050b10637f79ee8ec99000314623da564d721e42491098f7ec565b5c85e2dc",
+      "size": 42681880,
+      "url": "/packs/misc_01.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_02": {
+      "hash": "sha256:10dca84c671d0bd9eda0a2c65f224537943a7f0eab8f063fb753ace5be1238bb",
+      "content_hash": "sha256:097b0894c24fa158a912da8fb98716a1cbc9d99713d9857550606558e62a557c",
+      "size": 39985160,
+      "url": "/packs/misc_02.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_03": {
+      "hash": "sha256:38efae9eeaa5231282791ce981fcc030b00354042b852771d8149d85e7b196e3",
+      "content_hash": "sha256:e04c9492fa2dfbd8e539d6b324975869e3bc7d9064e81c59e208915a2e5ddb7e",
+      "size": 41803368,
+      "url": "/packs/misc_03.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_04": {
+      "hash": "sha256:1c4ba250cd037ea4629373885cb3f4f415ace4448dc32a05dbdbb902f5a5de9f",
+      "content_hash": "sha256:3ddc5abb65d0f63be4f1341fd731b95f7c49fdc70a31eb95876bdc29e9b26d9d",
+      "size": 35325476,
+      "url": "/packs/misc_04.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_05": {
+      "hash": "sha256:777e9861ba2fd2e9df752045ed7390c3b3f74998b34650fa836a695a7e3b73d1",
+      "content_hash": "sha256:20fd2b12cf48d1f4832a8e1a5d80bf211703ba6e19709e7321c8dcf8d68fda0b",
+      "size": 31912352,
+      "url": "/packs/misc_05.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_06": {
+      "hash": "sha256:63d4560b297e6ce04ebcc931f3e5187ab693f5f5ce36ce31e903398edbbaa39c",
+      "content_hash": "sha256:87641e30d9ca1eeea95a9e3c4d044eba14da1c913d53dc5b85b51790c41d2141",
+      "size": 60995056,
+      "url": "/packs/misc_06.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_07": {
+      "hash": "sha256:76c55972647aec004da1084d88fe9d95f8e4233aac604152e0fbede7c71f0c98",
+      "content_hash": "sha256:637076a4655f858167e6b246ee5c0e0ca471c562bb2a0c687fac114bae0a51b6",
+      "size": 34281236,
+      "url": "/packs/misc_07.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_08": {
+      "hash": "sha256:385a24d701e00a76b5486aecf510a43a44d7d88a49c0d92047f0c99b10e89e93",
+      "content_hash": "sha256:ac8a36ba8a34a93f7095854a6a5b98b991859ec91c488e4a936be7d83889e81e",
+      "size": 56563320,
+      "url": "/packs/misc_08.pck",
       "priority": 1,
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:9a12ff5158800df42806877cccc03ba22ad1ad93949096daf9ebeb4fb73e68e6",
+  "exe_hash": "sha256:e1db975ba78708d9ce497f33d86ad21dcc3dd5a7fc9242b751eaa24d244c145d",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
