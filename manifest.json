@@ -5,9 +5,9 @@
   "apk_version": "",
   "packs": {
     "game": {
-      "hash": "sha256:4b809847363486f380e22cf88dfbae8624a90ab366c9497452609ba683a2dac4",
-      "content_hash": "sha256:f30d17774ead5188916246160c875474c0e437171039c275485c11b2d4960cfc",
-      "size": 3912000,
+      "hash": "sha256:39ecc1a9019d612bdd633226a6d5f153c0e8c35e48add505d975ea4b657a662c",
+      "content_hash": "sha256:e8eb16cc1780a7c0d9477ddf232f489acdbbb879c62d23ed76e28fa10e7f1062",
+      "size": 3911712,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
@@ -1429,6 +1429,6 @@
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:91e5857755ef9fdab50a7c7ff024e3f527bfc7b523fd316e1bef6d8ee63d5c3d",
+  "exe_hash": "sha256:b4202626e35efd929ae96bd5027a545c8ac248ef5b5ba2040012aae876f233d9",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
