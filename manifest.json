@@ -5,9 +5,9 @@
   "apk_version": "",
   "packs": {
     "game": {
-      "hash": "sha256:44e3cdd1899b3e53f3f87f760441c32f6de43385f0209fcaa94b5570c6473444",
-      "content_hash": "sha256:d43e27a2085411b27a8c75b06e9f5248e0169c836c3fb4de75e44a283eb58cc1",
-      "size": 3913536,
+      "hash": "sha256:1f3ba55d91b8ee3ffd7442beda9ef546f71bc5a1647eb10425732d3f410a3e43",
+      "content_hash": "sha256:a4bbfb965ca397b67cb2f839e92c6c5a16d7f85e8d23c6487b4ddabc672a55c5",
+      "size": 3914656,
       "url": "/packs/game.pck",
       "priority": 0,
       "requires_restart": true
@@ -77,65 +77,65 @@
       "requires_restart": false
     },
     "shared_01": {
-      "hash": "sha256:c30ab9594566b4043c4b7dfa0e9723a5d1d417848bc5dce8b69e447f1e6b3263",
-      "content_hash": "sha256:0b7f67f9550e6ca61b6810146380bc4c650d0067ae19d3f191d1f4ad4364b740",
-      "size": 8869632,
+      "hash": "sha256:ef163b5c078f2b38a781ee40bb823fdf5ac0e6ada7566eea49829de25014bcb2",
+      "content_hash": "sha256:4487cd3796369e8220bc1d0bac85a5040c804f5f06bd38ad54117a02663f09c9",
+      "size": 28657196,
       "url": "/packs/shared_01.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_02": {
-      "hash": "sha256:5d345db78eedb465e11e96b6c51865662e68653c6a4a09f08bea6cac65da20e3",
-      "content_hash": "sha256:77c14329dd44dbcc3af5807d47ba9ddfd19502e0766e13a4a7dff73634fc7a33",
-      "size": 8514464,
+      "hash": "sha256:bc68e1649cd7820f376abc27229bcda7d955ac56e2be29d8808e2f34edde1d35",
+      "content_hash": "sha256:dc138d6d7414bd1a48ed981ac8e350a5a6c77d882dc7bf782a6df3433ded3777",
+      "size": 25407248,
       "url": "/packs/shared_02.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_03": {
-      "hash": "sha256:359cf1a504a50d8bba5105de18d67187c27910adcf27b125c03c366ad0025aa3",
-      "content_hash": "sha256:1051775b6c9acd20a6e69dc715494ee94d78fc4a8f270d0a49c984a7a0f8e4c0",
-      "size": 6328688,
+      "hash": "sha256:24753e0f519babfd26979e4f7546f45a986f140e5be937f2e49bd2947503015f",
+      "content_hash": "sha256:8ec96af749aa91ae98d5a2eefcb73ad0b08f19ca923d78f041dffcfab1693177",
+      "size": 28212120,
       "url": "/packs/shared_03.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_04": {
-      "hash": "sha256:e84db752f353efe3c27124c8436ba502a351c8f8009f8d80969569af753109f6",
-      "content_hash": "sha256:05c21f45df51399d24811cfef325cbcbb685eba7142026cea476ced347e078b8",
-      "size": 6499192,
+      "hash": "sha256:c6aeeb84104d0a5f4aa83d8255743c234d66d59e4b79dd1536a9afeaf0ad271d",
+      "content_hash": "sha256:f9e721ccdb6de12fbba4602050501f79d79fa8eb6e3b080ccc95490285fd8a98",
+      "size": 30431588,
       "url": "/packs/shared_04.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_05": {
-      "hash": "sha256:6cc3de39dad77e10f7a776b76e99e25276d916ee82b63ee88f9e40c1adeb54f3",
-      "content_hash": "sha256:8093916490f578587141916feca023d900f9a25e78f44b2741990d0340089b3a",
-      "size": 5438092,
+      "hash": "sha256:086b5b4d1f2acd9a7bc3e109e15cd2225290ae2c663ae90cb175c649984d733e",
+      "content_hash": "sha256:80477754f6ef10f48ab490cb97bb94f62082890c5ff8876451573ba930a92bae",
+      "size": 56087576,
       "url": "/packs/shared_05.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_06": {
-      "hash": "sha256:0193557e50a7669895238c098e48509f0209e5b4bfddadb2547d6dca52c7e93d",
-      "content_hash": "sha256:bd5144557278fb901c5571136da5146924a84c4bc90580b06c7902e5efb85624",
-      "size": 14746908,
+      "hash": "sha256:1e4d4cdd7b941354b0c72a24b1530c2a0f851dd9e8909eb41f3efa40744dbc9b",
+      "content_hash": "sha256:d91c4410eedef703e846f9fc40df6333769f1d9ef5c3d8cb0b42c206cf19f6ee",
+      "size": 62025100,
       "url": "/packs/shared_06.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_07": {
-      "hash": "sha256:15f813aadf9efa1d8da240fce7c36bf5992bc40c965fe0cbb616efbcf3e7b910",
-      "content_hash": "sha256:512d460c10ed7e8fb8357ab32b4f34a60e4b5139c5f4799f583d9e6fdb8eff5d",
-      "size": 24305140,
+      "hash": "sha256:f8c18fddbcf8cf725daa59bf1f2f3ddea5be96fa0e0d119397bb6d4e7293c851",
+      "content_hash": "sha256:1789f61f1b556bed5dc21f921464fb8a0d4d9cd01306cfb097d96f406944d49f",
+      "size": 72982124,
       "url": "/packs/shared_07.pck",
       "priority": 1,
       "requires_restart": false
     },
     "shared_08": {
-      "hash": "sha256:5454549f75d78717a5e0e06d9ea0e8f5c6f1074bd00f714ebc3491b0a492355c",
-      "content_hash": "sha256:5279386554e9b3594a5a08b1764653afcff024c411fc5806d297b6d29825a47f",
-      "size": 13824444,
+      "hash": "sha256:68e115886c1d539a742d67410b480514330e758314d427c6bb120bb705028011",
+      "content_hash": "sha256:880aad02d027a4d146039725c1cd1b429659927ee638407dba3301895c47d59c",
+      "size": 17277628,
       "url": "/packs/shared_08.pck",
       "priority": 1,
       "requires_restart": false
@@ -1357,78 +1357,86 @@
       "requires_restart": false
     },
     "misc_01": {
-      "hash": "sha256:77fef1c2ac6cc2f3b499e00b64b03a15906087d053ce003d11e3fb1e1edd2766",
-      "content_hash": "sha256:3b050b10637f79ee8ec99000314623da564d721e42491098f7ec565b5c85e2dc",
-      "size": 42681880,
+      "hash": "sha256:db5f6a9238fcd1f67b2f540cccf5b6c71eea84b69ff9eb089207d5e7adaaee94",
+      "content_hash": "sha256:1f9b72ee638ebf45dea934fac3628ebc453cf43a1f030532825f0632ee0cacc0",
+      "size": 33737848,
       "url": "/packs/misc_01.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_02": {
-      "hash": "sha256:10dca84c671d0bd9eda0a2c65f224537943a7f0eab8f063fb753ace5be1238bb",
-      "content_hash": "sha256:097b0894c24fa158a912da8fb98716a1cbc9d99713d9857550606558e62a557c",
-      "size": 39985160,
+      "hash": "sha256:f970539c57e7c45d6f0143c56a72c3a804012956c179a92ea55391f510e14214",
+      "content_hash": "sha256:261ab5bf13111d7af7fbdc1d4831707fc5acb8e528e04656123f7426dce239f7",
+      "size": 31776140,
       "url": "/packs/misc_02.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_03": {
-      "hash": "sha256:38efae9eeaa5231282791ce981fcc030b00354042b852771d8149d85e7b196e3",
-      "content_hash": "sha256:e04c9492fa2dfbd8e539d6b324975869e3bc7d9064e81c59e208915a2e5ddb7e",
-      "size": 41803368,
+      "hash": "sha256:1a83b464051006ab498508e629c7e573676f042d53b2d9e6255736f92e6480f1",
+      "content_hash": "sha256:10ad3c2223d7a689311cd849e1efa440ee58be4496872675a1739f0a70bfae9f",
+      "size": 34470916,
       "url": "/packs/misc_03.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_04": {
-      "hash": "sha256:1c4ba250cd037ea4629373885cb3f4f415ace4448dc32a05dbdbb902f5a5de9f",
-      "content_hash": "sha256:3ddc5abb65d0f63be4f1341fd731b95f7c49fdc70a31eb95876bdc29e9b26d9d",
-      "size": 35325476,
+      "hash": "sha256:51806f2fd788802d6a78bebdc0e94987cb8797ac1444f49997b06698c59f4360",
+      "content_hash": "sha256:609eaa1ea2b1340f1d86b1fcf3594aedd5eab017bff7c8cb5f238fc6ada5a76c",
+      "size": 38136220,
       "url": "/packs/misc_04.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_05": {
-      "hash": "sha256:777e9861ba2fd2e9df752045ed7390c3b3f74998b34650fa836a695a7e3b73d1",
-      "content_hash": "sha256:20fd2b12cf48d1f4832a8e1a5d80bf211703ba6e19709e7321c8dcf8d68fda0b",
-      "size": 31912352,
+      "hash": "sha256:40bdac4b434cd2f6cca632dfcaff1b698e5af5888ab6592b2a2b290e5a11c754",
+      "content_hash": "sha256:4f3a23bf483aa9fad1fd4dfe08c24a5f0a341d994baeecda26c252b6e7f3998f",
+      "size": 37688464,
       "url": "/packs/misc_05.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_06": {
-      "hash": "sha256:63d4560b297e6ce04ebcc931f3e5187ab693f5f5ce36ce31e903398edbbaa39c",
-      "content_hash": "sha256:87641e30d9ca1eeea95a9e3c4d044eba14da1c913d53dc5b85b51790c41d2141",
-      "size": 60995056,
+      "hash": "sha256:9c23f6d8998a858b404b809f12daa8005b977e2ab49542f71c4fff99d6b07457",
+      "content_hash": "sha256:52d412c6043a6b56948683fe4eda77fe65d9d582c983d2580873a218e34cdd90",
+      "size": 35326024,
       "url": "/packs/misc_06.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_07": {
-      "hash": "sha256:76c55972647aec004da1084d88fe9d95f8e4233aac604152e0fbede7c71f0c98",
-      "content_hash": "sha256:637076a4655f858167e6b246ee5c0e0ca471c562bb2a0c687fac114bae0a51b6",
-      "size": 34281236,
+      "hash": "sha256:4929d06938b1d0af186c8b75cd12ba3ec95230dc37ab3fb206864efd910c7f3f",
+      "content_hash": "sha256:49fee55f84580a38e93634d61eb23919428875e0d3ac0bf7fa0551e70d45bf1b",
+      "size": 41609156,
       "url": "/packs/misc_07.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_08": {
-      "hash": "sha256:d67b5b60e134a062f548dcb68e643d2b4b11e302f4662b06a634124a0f616eb8",
-      "content_hash": "sha256:2ee1cdeb828d4c4b0221de3244cfc37b57c25a7593e4600b73040e61d378bb62",
-      "size": 68616684,
+      "hash": "sha256:27af5035b267f15b9fff6ab2348615f5db7e182eeb2646b8866f0f7def6a9b8b",
+      "content_hash": "sha256:637076a4655f858167e6b246ee5c0e0ca471c562bb2a0c687fac114bae0a51b6",
+      "size": 34287444,
       "url": "/packs/misc_08.pck",
       "priority": 1,
       "requires_restart": false
     },
     "misc_09": {
-      "hash": "sha256:f0c61df5c41c58bcd5e93b61cd2dacbdd300f6926e29ebc0d1b64a0760e3f500",
-      "content_hash": "sha256:02ec39d216bfc21fcb7cb40fba9395f349a3ed793d0f346fa6aa46af119c8c06",
-      "size": 574500,
+      "hash": "sha256:a702069bf20b3a148d9485d97e468cd1a67fb58b8f7f20c950f9dd5d011f533a",
+      "content_hash": "sha256:54ca0ef538ffcaf8bc85ac70bc3ac563fc9c5359a689ff0767f78b31c3d65434",
+      "size": 32893276,
       "url": "/packs/misc_09.pck",
+      "priority": 1,
+      "requires_restart": false
+    },
+    "misc_10": {
+      "hash": "sha256:9d3de8bfa6e7e8ac7f3b9933af41e0962853f46ac69b91f1aff305d62c50d5f0",
+      "content_hash": "sha256:d58da11d2c810130e4466441bdf0c9c57da55b6bf899fd6c96173351291c3bdd",
+      "size": 36297908,
+      "url": "/packs/misc_10.pck",
       "priority": 1,
       "requires_restart": false
     }
   },
-  "exe_hash": "sha256:38978cbc1c0aec89898da329f0ec947b8f49c6e7a4bfa7546a9cb7acd69ea40d",
+  "exe_hash": "sha256:49c7ca69fd647249ff8400115cbc387c0d34e5f76103e669b191ad702e61cea8",
   "exe_url": "https://github.com/NsKx/regnum-client-production/releases/download/latest/regnum.exe"
 }
